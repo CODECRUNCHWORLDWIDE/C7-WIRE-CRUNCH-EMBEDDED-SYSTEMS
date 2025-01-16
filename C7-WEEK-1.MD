@@ -3,7 +3,7 @@
 ## Topic: Programming Basics
 - **Week Dates:** January 13, 2025 - January 17, 2025
 - **Unit:** Week 0 - Overview of C7
-- **Link to Slides:** [Unit 1 - Introduction to Embedded Systems.pptx](https://docs.google.com/presentation/d/1lWSWswvvJJE2Bv9MuKpWJjn7fyt3LTAh/edit?usp=drive_link&ouid=107960321799476780456&rtpof=true&sd=true)
+- **Link to Slides:** [Unit 2 - Unit Testing and Serial Logging.pptx](https://docs.google.com/presentation/d/1j6jCW9D5SgW87PrOUvQb3yW1ahLH3lii/edit?usp=drive_link&ouid=107960321799476780456&rtpof=true&sd=true)
 - **Link to tinkercad:** [tinkercad.com/joinclass](https://www.tinkercad.com/joinclass)
 - **Link to class link tinkercad:** [WRY8PM3BK](https://www.tinkercad.com/joinclass/WRY8PM3BK)
 
