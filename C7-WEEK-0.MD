@@ -4,6 +4,7 @@
 - **Week Dates:** January 6, 2025 - January 10, 2025
 - **Unit:** Week 0 - Overview of C7
 - **Link to Slides:** [Unit 1 - Introduction to Embedded Systems.pptx](https://docs.google.com/presentation/d/1lWSWswvvJJE2Bv9MuKpWJjn7fyt3LTAh/edit?usp=drive_link&ouid=107960321799476780456&rtpof=true&sd=true)
+- **Link to Slides:** [Unit 1 - RGB Lab.pptx](https://docs.google.com/presentation/d/1A6fUy354b68wU72ERJ6-bmYzchD-dxdS/edit?usp=drive_link&ouid=107960321799476780456&rtpof=true&sd=true)
 - **Link to tinkercad:** [tinkercad.com/joinclass](https://www.tinkercad.com/joinclass)
 - **Link to class link tinkercad:** [WRY8PM3BK](https://www.tinkercad.com/joinclass/WRY8PM3BK)
 
