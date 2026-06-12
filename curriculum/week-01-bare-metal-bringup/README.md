@@ -25,7 +25,7 @@ By the end of this week, you will be able to:
 
 ## Prerequisites
 
-You have done C1 (Python fluency), or you can read a C function without panic. You have read the [Course README](../../README.md), [Syllabus](../../SYLLABUS.md), and [Brand guide](../../branding/BRAND.md). You have the Pi Pico W on your desk; if not, see the [hardware section in resources.md](./resources.md).
+You have done C1 (Python fluency), or you can read a C function without panic. You have read the [Course README](../../README.md), [Syllabus](../../SYLLABUS.md), and [Brand guide](../../assets/branding/BRAND.md). You have the Pi Pico W on your desk; if not, see the [hardware section in resources.md](./resources.md).
 
 If you cannot read a C `for` loop or a basic `struct`, pause C7 and take C1 first. You will save yourself two months of frustration.
 
