@@ -1,0 +1,7 @@
+
+# macOS filesystem junk
+._*
+.DS_Store
+.AppleDouble
+.Spotlight-V100
+.Trashes

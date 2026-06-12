@@ -1,0 +1,529 @@
+{
+  "repo": "C7-WIRE-CRUNCH-EMBEDDED-SYSTEMS",
+  "files": [
+    {
+      "path": "CODE_OF_CONDUCT.md",
+      "title": "Contributor Covenant Code of Conduct"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "title": "Contributing to Wire Crunch \u2014 Embedded"
+    },
+    {
+      "path": "README.md",
+      "title": "C7 \u00b7 Crunch Wire \u2014 Embedded Systems & IoT Engineering"
+    },
+    {
+      "path": "assets/branding/BRAND.md",
+      "title": "C7 \u00b7 Crunch Wire \u2014 Brand Guide"
+    },
+    {
+      "path": "community/CHARTER.md",
+      "title": "C7 \u00b7 Crunch Wire \u2014 Track Charter"
+    },
+    {
+      "path": "curriculum/SYLLABUS.md",
+      "title": "C7 \u00b7 Crunch Wire \u2014 Syllabus"
+    },
+    {
+      "path": "curriculum/week-01-bare-metal-bringup/README.md",
+      "title": "Week 1 \u2014 Bare-Metal MCU Bring-Up"
+    },
+    {
+      "path": "curriculum/week-01-bare-metal-bringup/challenges/README.md",
+      "title": "Week 1 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-01-bare-metal-bringup/challenges/challenge-01-uart-hello-world.md",
+      "title": "Challenge 1 \u2014 UART Hello World"
+    },
+    {
+      "path": "curriculum/week-01-bare-metal-bringup/exercises/README.md",
+      "title": "Week 1 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-01-bare-metal-bringup/exercises/exercise-01-toolchain-install.md",
+      "title": "Exercise 1 \u2014 Toolchain install"
+    },
+    {
+      "path": "curriculum/week-01-bare-metal-bringup/exercises/exercise-02-first-blink-c.md",
+      "title": "Exercise 2 \u2014 First Blink in C"
+    },
+    {
+      "path": "curriculum/week-01-bare-metal-bringup/exercises/exercise-03-first-blink-micropython.md",
+      "title": "Exercise 3 \u2014 First Blink in MicroPython"
+    },
+    {
+      "path": "curriculum/week-01-bare-metal-bringup/homework.md",
+      "title": "Week 1 \u2014 Homework"
+    },
+    {
+      "path": "curriculum/week-01-bare-metal-bringup/lecture-notes/01-what-is-a-microcontroller.md",
+      "title": "Lecture 1 \u2014 What Is a Microcontroller?"
+    },
+    {
+      "path": "curriculum/week-01-bare-metal-bringup/lecture-notes/02-the-toolchain-tour.md",
+      "title": "Lecture 2 \u2014 The Toolchain Tour"
+    },
+    {
+      "path": "curriculum/week-01-bare-metal-bringup/lecture-notes/03-reading-a-datasheet.md",
+      "title": "Lecture 3 \u2014 Reading a Datasheet"
+    },
+    {
+      "path": "curriculum/week-01-bare-metal-bringup/mini-project/README.md",
+      "title": "Mini-Project \u2014 The Week 1 Bring-Up Note"
+    },
+    {
+      "path": "curriculum/week-01-bare-metal-bringup/quiz.md",
+      "title": "Week 1 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-01-bare-metal-bringup/resources.md",
+      "title": "Week 1 \u2014 Resources"
+    },
+    {
+      "path": "curriculum/week-02-gpio-uart-and-registers/README.md",
+      "title": "Week 2 \u2014 GPIO, UART, and Peripheral Registers"
+    },
+    {
+      "path": "curriculum/week-02-gpio-uart-and-registers/challenges/README.md",
+      "title": "Week 2 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-02-gpio-uart-and-registers/challenges/challenge-01-spi-bitbang-an-oled.md",
+      "title": "Challenge 1 \u2014 Bit-Bang SPI to Drive an SSD1306 OLED"
+    },
+    {
+      "path": "curriculum/week-02-gpio-uart-and-registers/exercises/README.md",
+      "title": "Week 2 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-02-gpio-uart-and-registers/exercises/exercise-01-toggle-gpio-by-register.md",
+      "title": "Exercise 1 \u2014 Toggle a GPIO by Register"
+    },
+    {
+      "path": "curriculum/week-02-gpio-uart-and-registers/exercises/exercise-02-uart-echo.md",
+      "title": "Exercise 2 \u2014 UART Echo"
+    },
+    {
+      "path": "curriculum/week-02-gpio-uart-and-registers/exercises/exercise-03-button-debounce.md",
+      "title": "Exercise 3 \u2014 Button Debounce"
+    },
+    {
+      "path": "curriculum/week-02-gpio-uart-and-registers/homework.md",
+      "title": "Week 2 \u2014 Homework"
+    },
+    {
+      "path": "curriculum/week-02-gpio-uart-and-registers/lecture-notes/01-gpio-from-the-register-up.md",
+      "title": "Lecture 1 \u2014 GPIO From the Register Up"
+    },
+    {
+      "path": "curriculum/week-02-gpio-uart-and-registers/lecture-notes/02-uart-bit-timing-and-handshake.md",
+      "title": "Lecture 2 \u2014 UART Bit Timing and Handshake"
+    },
+    {
+      "path": "curriculum/week-02-gpio-uart-and-registers/lecture-notes/03-the-pi-pico-sdk-abstraction.md",
+      "title": "Lecture 3 \u2014 The Pi Pico SDK Abstraction"
+    },
+    {
+      "path": "curriculum/week-02-gpio-uart-and-registers/mini-project/README.md",
+      "title": "Mini-Project \u2014 The Week 2 Register Table"
+    },
+    {
+      "path": "curriculum/week-02-gpio-uart-and-registers/quiz.md",
+      "title": "Week 2 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-02-gpio-uart-and-registers/resources.md",
+      "title": "Week 2 \u2014 Resources"
+    },
+    {
+      "path": "curriculum/week-03-linker-scripts-and-startup/README.md",
+      "title": "Week 3 \u2014 Linker Scripts, Startup Files, and the Memory Map"
+    },
+    {
+      "path": "curriculum/week-03-linker-scripts-and-startup/challenges/README.md",
+      "title": "Week 3 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-03-linker-scripts-and-startup/challenges/challenge-01-bare-bare-metal-blink.md",
+      "title": "Challenge 1 \u2014 Bare-Bare-Metal Blink"
+    },
+    {
+      "path": "curriculum/week-03-linker-scripts-and-startup/exercises/README.md",
+      "title": "Week 3 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-03-linker-scripts-and-startup/exercises/exercise-01-read-the-default-linker-script.md",
+      "title": "Exercise 1 \u2014 Read the Default Linker Script"
+    },
+    {
+      "path": "curriculum/week-03-linker-scripts-and-startup/exercises/exercise-02-write-a-minimal-startup.md",
+      "title": "Exercise 2 \u2014 Write a Minimal Startup File"
+    },
+    {
+      "path": "curriculum/week-03-linker-scripts-and-startup/exercises/exercise-03-blink-without-the-SDK.md",
+      "title": "Exercise 3 \u2014 Blink Without the SDK"
+    },
+    {
+      "path": "curriculum/week-03-linker-scripts-and-startup/homework.md",
+      "title": "Week 3 \u2014 Homework"
+    },
+    {
+      "path": "curriculum/week-03-linker-scripts-and-startup/lecture-notes/01-the-cortex-m0-memory-map.md",
+      "title": "Lecture 1 \u2014 The Cortex-M0+ Memory Map"
+    },
+    {
+      "path": "curriculum/week-03-linker-scripts-and-startup/lecture-notes/02-anatomy-of-a-linker-script.md",
+      "title": "Lecture 2 \u2014 Anatomy of a Linker Script"
+    },
+    {
+      "path": "curriculum/week-03-linker-scripts-and-startup/lecture-notes/03-the-startup-file-and-vector-table.md",
+      "title": "Lecture 3 \u2014 The Startup File and the Vector Table"
+    },
+    {
+      "path": "curriculum/week-03-linker-scripts-and-startup/mini-project/README.md",
+      "title": "Mini-Project \u2014 The From-Scratch Pi Pico W Blink"
+    },
+    {
+      "path": "curriculum/week-03-linker-scripts-and-startup/quiz.md",
+      "title": "Week 3 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-03-linker-scripts-and-startup/resources.md",
+      "title": "Week 3 \u2014 Resources"
+    },
+    {
+      "path": "curriculum/week-04-spi-i2c-bus-drivers/README.md",
+      "title": "Week 4 \u2014 SPI, I\u00b2C, and Bus Driver Patterns"
+    },
+    {
+      "path": "curriculum/week-04-spi-i2c-bus-drivers/challenges/README.md",
+      "title": "Week 4 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-04-spi-i2c-bus-drivers/challenges/challenge-01-shared-bus-multiple-devices.md",
+      "title": "Challenge 1 \u2014 Shared bus, multiple devices"
+    },
+    {
+      "path": "curriculum/week-04-spi-i2c-bus-drivers/exercises/README.md",
+      "title": "Week 4 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-04-spi-i2c-bus-drivers/exercises/exercise-01-spi-an-oled.md",
+      "title": "Exercise 1 \u2014 SPI an OLED"
+    },
+    {
+      "path": "curriculum/week-04-spi-i2c-bus-drivers/exercises/exercise-02-i2c-a-bmp280.md",
+      "title": "Exercise 2 \u2014 I\u00b2C a BMP280"
+    },
+    {
+      "path": "curriculum/week-04-spi-i2c-bus-drivers/exercises/exercise-03-bus-driver-abstraction.md",
+      "title": "Exercise 3 \u2014 Bus driver abstraction"
+    },
+    {
+      "path": "curriculum/week-04-spi-i2c-bus-drivers/homework.md",
+      "title": "Week 4 \u2014 Homework"
+    },
+    {
+      "path": "curriculum/week-04-spi-i2c-bus-drivers/lecture-notes/01-spi-the-3-wire-bus.md",
+      "title": "Lecture 1 \u2014 SPI: the 3-wire bus (and the fourth)"
+    },
+    {
+      "path": "curriculum/week-04-spi-i2c-bus-drivers/lecture-notes/02-i2c-multi-master-and-addressing.md",
+      "title": "Lecture 2 \u2014 I\u00b2C: multi-master, addressing, and the held-low SCL"
+    },
+    {
+      "path": "curriculum/week-04-spi-i2c-bus-drivers/lecture-notes/03-driver-design-patterns.md",
+      "title": "Lecture 3 \u2014 Driver design patterns: transport vs protocol"
+    },
+    {
+      "path": "curriculum/week-04-spi-i2c-bus-drivers/mini-project/README.md",
+      "title": "Week 4 \u2014 Mini-project: the Pi Pico W multi-bus sensor display"
+    },
+    {
+      "path": "curriculum/week-04-spi-i2c-bus-drivers/quiz.md",
+      "title": "Week 4 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-04-spi-i2c-bus-drivers/resources.md",
+      "title": "Week 4 \u2014 Resources"
+    },
+    {
+      "path": "curriculum/week-05-modern-cpp-on-bare-metal/README.md",
+      "title": "Week 5 \u2014 Modern C++ on Bare Metal"
+    },
+    {
+      "path": "curriculum/week-05-modern-cpp-on-bare-metal/challenges/README.md",
+      "title": "Week 5 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-05-modern-cpp-on-bare-metal/challenges/challenge-01-cpp-rewrite-of-uart-driver.md",
+      "title": "Challenge 1 \u2014 C++ rewrite of the UART driver"
+    },
+    {
+      "path": "curriculum/week-05-modern-cpp-on-bare-metal/exercises/README.md",
+      "title": "Week 5 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-05-modern-cpp-on-bare-metal/exercises/exercise-01-gpio-template-vs-c-macro.md",
+      "title": "Exercise 1 \u2014 `Gpio<Pin>` template vs C macro"
+    },
+    {
+      "path": "curriculum/week-05-modern-cpp-on-bare-metal/exercises/exercise-02-cpp-spi-driver-with-concepts.md",
+      "title": "Exercise 2 \u2014 C++20 SPI driver with `concepts`"
+    },
+    {
+      "path": "curriculum/week-05-modern-cpp-on-bare-metal/exercises/exercise-03-mixed-c-and-cpp-translation-units.md",
+      "title": "Exercise 3 \u2014 Mixed C and C++ translation units in one `.elf`"
+    },
+    {
+      "path": "curriculum/week-05-modern-cpp-on-bare-metal/homework.md",
+      "title": "Week 5 \u2014 Homework"
+    },
+    {
+      "path": "curriculum/week-05-modern-cpp-on-bare-metal/lecture-notes/01-cpp20-embedded-subset.md",
+      "title": "Lecture 1 \u2014 The C++20 embedded subset"
+    },
+    {
+      "path": "curriculum/week-05-modern-cpp-on-bare-metal/lecture-notes/02-zero-cost-abstractions.md",
+      "title": "Lecture 2 \u2014 Zero-cost abstractions: CRTP, templates, and the `objdump` arbiter"
+    },
+    {
+      "path": "curriculum/week-05-modern-cpp-on-bare-metal/lecture-notes/03-when-c-still-wins.md",
+      "title": "Lecture 3 \u2014 When C still wins"
+    },
+    {
+      "path": "curriculum/week-05-modern-cpp-on-bare-metal/mini-project/README.md",
+      "title": "Week 5 \u2014 Mini-project: the SPI/I\u00b2C driver, rewritten in C++20"
+    },
+    {
+      "path": "curriculum/week-05-modern-cpp-on-bare-metal/quiz.md",
+      "title": "Week 5 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-05-modern-cpp-on-bare-metal/resources.md",
+      "title": "Week 5 \u2014 Resources"
+    },
+    {
+      "path": "curriculum/week-06-rtos-basics-freertos/README.md",
+      "title": "Week 6 \u2014 RTOS Basics with FreeRTOS on the RP2040"
+    },
+    {
+      "path": "curriculum/week-06-rtos-basics-freertos/exercises/SOLUTIONS.md",
+      "title": "Exercises \u2014 solutions and notes"
+    },
+    {
+      "path": "curriculum/week-06-rtos-basics-freertos/homework.md",
+      "title": "Week 6 \u2014 Homework"
+    },
+    {
+      "path": "curriculum/week-06-rtos-basics-freertos/lecture-notes/01-what-an-rtos-is-and-isnt.md",
+      "title": "Lecture 1 \u2014 What an RTOS is, and what it isn't"
+    },
+    {
+      "path": "curriculum/week-06-rtos-basics-freertos/lecture-notes/02-tasks-stacks-and-scheduling.md",
+      "title": "Lecture 2 \u2014 Tasks, stacks, and the scheduler"
+    },
+    {
+      "path": "curriculum/week-06-rtos-basics-freertos/lecture-notes/03-ipc-queues-semaphores-mutexes.md",
+      "title": "Lecture 3 \u2014 IPC: queues, semaphores, mutexes, and priority inheritance"
+    },
+    {
+      "path": "curriculum/week-06-rtos-basics-freertos/mini-project/README.md",
+      "title": "Mini-project \u2014 Three-task sensor pipeline on FreeRTOS"
+    },
+    {
+      "path": "curriculum/week-06-rtos-basics-freertos/quiz.md",
+      "title": "Week 6 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-06-rtos-basics-freertos/resources.md",
+      "title": "Week 6 \u2014 Resources"
+    },
+    {
+      "path": "curriculum/week-07-rtos-patterns-and-exti-sensors/README.md",
+      "title": "Week 7 \u2014 RTOS Patterns and EXTI-Driven Sensor Reads on the RP2040"
+    },
+    {
+      "path": "curriculum/week-07-rtos-patterns-and-exti-sensors/exercises/SOLUTIONS.md",
+      "title": "Exercises \u2014 solutions and notes"
+    },
+    {
+      "path": "curriculum/week-07-rtos-patterns-and-exti-sensors/homework.md",
+      "title": "Week 7 \u2014 Homework"
+    },
+    {
+      "path": "curriculum/week-07-rtos-patterns-and-exti-sensors/lecture-notes/01-deferred-interrupts-and-the-nvic.md",
+      "title": "Lecture 1 \u2014 Deferred Interrupts and the NVIC on Cortex-M0+"
+    },
+    {
+      "path": "curriculum/week-07-rtos-patterns-and-exti-sensors/lecture-notes/02-stream-buffers-and-notifications.md",
+      "title": "Lecture 2 \u2014 Stream Buffers, Message Buffers, and Direct-to-Task Notifications"
+    },
+    {
+      "path": "curriculum/week-07-rtos-patterns-and-exti-sensors/lecture-notes/03-priority-inheritance-and-deadlock.md",
+      "title": "Lecture 3 \u2014 Priority Inheritance, the Blocking Bound, and Deadlock by Mutex Order"
+    },
+    {
+      "path": "curriculum/week-07-rtos-patterns-and-exti-sensors/mini-project/README.md",
+      "title": "Mini-project \u2014 IMU EXTI Pipeline on FreeRTOS"
+    },
+    {
+      "path": "curriculum/week-07-rtos-patterns-and-exti-sensors/quiz.md",
+      "title": "Week 7 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-07-rtos-patterns-and-exti-sensors/resources.md",
+      "title": "Week 7 \u2014 Resources"
+    },
+    {
+      "path": "curriculum/week-08-dma-adc-and-ring-buffers/README.md",
+      "title": "Week 8 \u2014 DMA, ADC Streaming, and Ring Buffers on the RP2040"
+    },
+    {
+      "path": "curriculum/week-08-dma-adc-and-ring-buffers/challenges/challenge-02-aliasing-and-the-input-filter.md",
+      "title": "Challenge 2 \u2014 Aliasing and the input antialiasing filter"
+    },
+    {
+      "path": "curriculum/week-08-dma-adc-and-ring-buffers/exercises/SOLUTIONS.md",
+      "title": "Week 8 Exercises \u2014 Solutions and Bench Notes"
+    },
+    {
+      "path": "curriculum/week-08-dma-adc-and-ring-buffers/homework.md",
+      "title": "Week 8 \u2014 Homework"
+    },
+    {
+      "path": "curriculum/week-08-dma-adc-and-ring-buffers/lecture-notes/01-the-rp2040-dma-controller.md",
+      "title": "Lecture 1 \u2014 The RP2040 DMA Controller"
+    },
+    {
+      "path": "curriculum/week-08-dma-adc-and-ring-buffers/lecture-notes/02-adc-peripheral-and-dma-wiring.md",
+      "title": "Lecture 2 \u2014 The ADC Peripheral and DMA Wiring"
+    },
+    {
+      "path": "curriculum/week-08-dma-adc-and-ring-buffers/lecture-notes/03-ring-buffers-and-the-spsc-pattern.md",
+      "title": "Lecture 3 \u2014 Ring Buffers and the Single-Producer-Single-Consumer Pattern"
+    },
+    {
+      "path": "curriculum/week-08-dma-adc-and-ring-buffers/mini-project/README.md",
+      "title": "Week 8 Mini-Project \u2014 1 MS/s Aggregate ADC Capture, Zero Overruns"
+    },
+    {
+      "path": "curriculum/week-08-dma-adc-and-ring-buffers/quiz.md",
+      "title": "Week 8 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-08-dma-adc-and-ring-buffers/resources.md",
+      "title": "Week 8 \u2014 Resources"
+    },
+    {
+      "path": "curriculum/week-09-usb-device-classes-tinyusb/README.md",
+      "title": "Week 9 \u2014 USB Device Classes on the RP2040 with TinyUSB"
+    },
+    {
+      "path": "curriculum/week-09-usb-device-classes-tinyusb/challenges/challenge-02-custom-hid-and-vendor-app.md",
+      "title": "Challenge 2 \u2014 Custom HID Report Descriptor and a Vendor-Side Parser"
+    },
+    {
+      "path": "curriculum/week-09-usb-device-classes-tinyusb/exercises/SOLUTIONS.md",
+      "title": "Exercises \u2014 Solutions and Walkthroughs"
+    },
+    {
+      "path": "curriculum/week-09-usb-device-classes-tinyusb/homework.md",
+      "title": "Week 9 \u2014 Homework"
+    },
+    {
+      "path": "curriculum/week-09-usb-device-classes-tinyusb/lecture-notes/01-usb-enumeration-and-descriptors.md",
+      "title": "Lecture 1 \u2014 USB Enumeration and the Four Core Descriptors"
+    },
+    {
+      "path": "curriculum/week-09-usb-device-classes-tinyusb/lecture-notes/02-cdc-acm-and-hid-on-tinyusb.md",
+      "title": "Lecture 2 \u2014 CDC ACM and HID on TinyUSB"
+    },
+    {
+      "path": "curriculum/week-09-usb-device-classes-tinyusb/lecture-notes/03-msc-ram-disk-and-composite-devices.md",
+      "title": "Lecture 3 \u2014 MSC, the RAM Disk, and the Composite Descriptor"
+    },
+    {
+      "path": "curriculum/week-09-usb-device-classes-tinyusb/mini-project/README.md",
+      "title": "Mini-Project \u2014 Composite USB Device: CDC + HID + MSC"
+    },
+    {
+      "path": "curriculum/week-09-usb-device-classes-tinyusb/quiz.md",
+      "title": "Week 9 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-09-usb-device-classes-tinyusb/resources.md",
+      "title": "Week 9 \u2014 Resources"
+    },
+    {
+      "path": "curriculum/week-10-bootloaders-and-firmware-updates/README.md",
+      "title": "Week 10 \u2014 Bootloaders and Firmware Updates on the RP2040"
+    },
+    {
+      "path": "curriculum/week-10-bootloaders-and-firmware-updates/challenges/challenge-01-brick-and-recover.md",
+      "title": "Challenge 1 \u2014 Brick and Recover"
+    },
+    {
+      "path": "curriculum/week-10-bootloaders-and-firmware-updates/challenges/challenge-02-dfu-class-bringup.md",
+      "title": "Challenge 2 \u2014 USB DFU Class Bring-up"
+    },
+    {
+      "path": "curriculum/week-10-bootloaders-and-firmware-updates/exercises/SOLUTIONS.md",
+      "title": "Exercise Solutions \u2014 Week 10"
+    },
+    {
+      "path": "curriculum/week-10-bootloaders-and-firmware-updates/homework.md",
+      "title": "Homework \u2014 Week 10"
+    },
+    {
+      "path": "curriculum/week-10-bootloaders-and-firmware-updates/lecture-notes/01-rp2040-boot-sequence-and-uf2.md",
+      "title": "Lecture 1 \u2014 The RP2040 Boot Sequence and the UF2 Format"
+    },
+    {
+      "path": "curriculum/week-10-bootloaders-and-firmware-updates/lecture-notes/02-dual-bank-flash-layout-and-the-boot-rom-api.md",
+      "title": "Lecture 2 \u2014 Dual-Bank Flash Layout and the Boot ROM API"
+    },
+    {
+      "path": "curriculum/week-10-bootloaders-and-firmware-updates/lecture-notes/03-ed25519-signing-and-ota-protocols.md",
+      "title": "Lecture 3 \u2014 Ed25519 Signing, the Signed Image Format, and OTA Protocols"
+    },
+    {
+      "path": "curriculum/week-10-bootloaders-and-firmware-updates/mini-project/README.md",
+      "title": "Mini-Project \u2014 Signed Dual-Bank Bootloader with OTA over CDC"
+    },
+    {
+      "path": "curriculum/week-10-bootloaders-and-firmware-updates/quiz.md",
+      "title": "Quiz \u2014 Week 10"
+    },
+    {
+      "path": "curriculum/week-10-bootloaders-and-firmware-updates/resources.md",
+      "title": "Resources \u2014 Week 10"
+    },
+    {
+      "path": "curriculum/week-11-wireless-wifi-mqtt-tls/README.md",
+      "title": "Week 11 \u2014 Wireless on the RP2040W: WiFi, MQTT, and TLS"
+    },
+    {
+      "path": "curriculum/week-11-wireless-wifi-mqtt-tls/exercises/SOLUTIONS.md",
+      "title": "Week 11 \u2014 Exercise Solutions and Walkthroughs"
+    },
+    {
+      "path": "curriculum/week-11-wireless-wifi-mqtt-tls/lecture-notes/01-cyw43-and-pico-cyw43-arch.md",
+      "title": "Lecture 1 \u2014 The CYW43439 and the pico_cyw43_arch API"
+    },
+    {
+      "path": "curriculum/week-11-wireless-wifi-mqtt-tls/lecture-notes/02-lwip-raw-api-and-pbuf-lifetime.md",
+      "title": "Lecture 2 \u2014 lwIP's Raw API and the Life of a pbuf"
+    },
+    {
+      "path": "curriculum/week-11-wireless-wifi-mqtt-tls/lecture-notes/03-mqtt5-wire-format-tls12-and-mbedtls.md",
+      "title": "Lecture 3 \u2014 MQTT 5 Wire Format, TLS 1.2, and Trimming mbedTLS"
+    },
+    {
+      "path": "curriculum/week-11-wireless-wifi-mqtt-tls/resources.md",
+      "title": "Week 11 \u2014 Resources"
+    }
+  ]
+}
