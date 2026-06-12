@@ -133,6 +133,6 @@ A capstone team **can** cross tracks, but each student's individual deliverables
 
 This charter is committed to by the Code Crunch Club — Crunch Labs working group as the design contract for C7 · Crunch Wire. Changes that affect more than wording (week count, capstone shape, language coverage, open-source posture) require a charter revision and a PR review, not a silent edit.
 
-C7 is licensed under **GPL-3.0**. See [`LICENSE`](./LICENSE). Fork, teach, remix; PR improvements back to <https://github.com/CODE-CRUNCH-CLUB>.
+C7 is licensed under **GPL-3.0**. See [`LICENSE`](./LICENSE). Fork, teach, remix; PR improvements back to <https://github.com/CODECRUNCHWORLDWIDE>.
 
 — Code Crunch Club, Crunch Labs working group, 2026.

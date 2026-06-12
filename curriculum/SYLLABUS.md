@@ -390,4 +390,4 @@ Delivered alongside the capstone:
 
 ## License
 
-This curriculum is licensed under **GPL-3.0**. See [`LICENSE`](./LICENSE). Fork, teach, remix; PR improvements back to <https://github.com/CODE-CRUNCH-CLUB>.
+This curriculum is licensed under **GPL-3.0**. See [`LICENSE`](./LICENSE). Fork, teach, remix; PR improvements back to <https://github.com/CODECRUNCHWORLDWIDE>.

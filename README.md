@@ -122,7 +122,7 @@ Honest expectations, set up front:
 
 This curriculum is licensed under **GPL-3.0**. See [`LICENSE`](./LICENSE).
 
-You may fork, adapt, teach, and remix. If you improve it, please PR back to <https://github.com/CODE-CRUNCH-CLUB>.
+You may fork, adapt, teach, and remix. If you improve it, please PR back to <https://github.com/CODECRUNCHWORLDWIDE>.
 
 Maintainers: Code Crunch Club — Crunch Labs working group. Track lead: Wire (`#C2410C`). Issues, errata, and PRs at the GitHub org.
 
