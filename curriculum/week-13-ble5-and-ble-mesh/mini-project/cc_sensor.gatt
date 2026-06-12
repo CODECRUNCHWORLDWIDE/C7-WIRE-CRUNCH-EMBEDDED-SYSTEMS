@@ -1,0 +1,35 @@
+// cc_sensor.gatt — GATT database for the Step-2 occupancy peripheral.
+//
+// Compiled by BTstack's compile_gatt.py (invoked from CMake via
+// pico_btstack_make_gatt_header) into cc_sensor.h, which provides the
+// profile_data[] attribute table and the *_VALUE_HANDLE / *_CLIENT_CONFIGURATION_HANDLE
+// constants referenced in gatt_sensor_peripheral.c.
+//
+// Citations:
+//   - Core Spec 5.4 Vol 3 Part G (services, characteristics, CCCD).
+//   - BTstack manual, "GATT Server" (the .gatt file format).
+
+// Mandatory Generic Access service: the device name and appearance.
+PRIMARY_SERVICE GAP_SERVICE
+CHARACTERISTIC GAP_DEVICE_NAME READ
+    "CC Occupancy"
+CHARACTERISTIC GAP_APPEARANCE READ
+    // Appearance 0x0540 = Generic Sensor (Assigned Numbers).
+    WRITE_PERSISTENT_DEFAULT 0x40 0x05
+
+// Mandatory Generic Attribute service: the database hash so clients can cache.
+PRIMARY_SERVICE GATT_SERVICE
+CHARACTERISTIC GATT_DATABASE_HASH READ
+
+// Our custom occupancy service. The 128-bit base UUID was generated once with
+// `uuidgen`; the last 16 bits of each characteristic distinguish them.
+PRIMARY_SERVICE A1B2C3D4-0000-1000-8000-00805F9B34FB
+
+// Occupancy state: 0 = clear, 1 = occupied. Read it or subscribe for pushes.
+// DYNAMIC routes reads to att_read_callback; compile_gatt.py adds the CCCD
+// automatically because NOTIFY is present.
+CHARACTERISTIC A1B2C3D4-0001-1000-8000-00805F9B34FB READ | NOTIFY | DYNAMIC
+
+// LED control: write 0 or 1 to drive the onboard LED. Encrypted write so a
+// random scanner cannot toggle it.
+CHARACTERISTIC A1B2C3D4-0002-1000-8000-00805F9B34FB WRITE | DYNAMIC | ENCRYPTION_KEY_SIZE_16

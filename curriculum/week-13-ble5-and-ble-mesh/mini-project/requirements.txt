@@ -1,0 +1,4 @@
+# Host-side Python dependencies for the Week 13 mini-project provisioner.
+# Install into a virtualenv:  python3 -m venv .venv && . .venv/bin/activate && pip install -r requirements.txt
+bleak>=0.21          # cross-platform BLE central (PB-GATT provisioning transport)
+cryptography>=41.0   # ECDH P-256, AES-CMAC, AES-CCM for the mesh key derivation

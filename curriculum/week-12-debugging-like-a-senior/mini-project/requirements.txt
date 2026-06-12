@@ -1,0 +1,13 @@
+# Host-side Python dependencies for the Week 12 mini-project.
+#
+# cc-debug.py talks the GDB Remote Serial Protocol over a plain TCP socket and
+# uses only the standard library (socket, struct, subprocess, argparse), so no
+# third-party packages are strictly required for the core tool.
+#
+# pyserial is listed for the optional CDC-console scripting and for consistency
+# with the rest of C7's host tooling; pylink-square is optional and only needed
+# if you drive a SEGGER J-Link directly instead of going through OpenOCD.
+
+pyserial>=3.5
+# Optional — only if using a J-Link probe directly rather than OpenOCD:
+# pylink-square>=1.0

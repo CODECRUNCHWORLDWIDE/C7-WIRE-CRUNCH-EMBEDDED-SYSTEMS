@@ -1,0 +1,2 @@
+# Host-side deps for cc-listen.py (the laptop subscriber + soak analyzer).
+paho-mqtt>=1.6

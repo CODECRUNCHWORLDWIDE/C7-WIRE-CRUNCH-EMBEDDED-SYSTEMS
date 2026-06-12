@@ -1,0 +1,4 @@
+# Host-side Python deps for the Week 15 mini-project tools.
+pyserial>=3.5
+matplotlib>=3.7   # optional, only for cc-orientation.py --plot
+numpy>=1.24       # optional, for the full-ellipsoid mag fit in the homework
